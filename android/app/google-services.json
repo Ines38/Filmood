@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "478933140423",
+    "project_id": "filmood-c8c12",
+    "storage_bucket": "filmood-c8c12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:478933140423:android:577a4260b6bc857da3cfe2",
+        "android_client_info": {
+          "package_name": "com.example.new_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "478933140423-emetg59fqcjujjqa3j86elonckk0nc6v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8spBUrAFVEBaetj_X9k-bV7WH7sILTi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "478933140423-emetg59fqcjujjqa3j86elonckk0nc6v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
